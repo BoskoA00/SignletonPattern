@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\IS\SingletonPatternIS\bin\Debug\SingletonPatternIS.exe.config
+C:\Users\Laptop\Desktop\IS\SingletonPatternIS\bin\Debug\SingletonPatternIS.exe
+C:\Users\Laptop\Desktop\IS\SingletonPatternIS\bin\Debug\SingletonPatternIS.pdb
+C:\Users\Laptop\Desktop\IS\SingletonPatternIS\obj\Debug\SingletonPatternIS.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\IS\SingletonPatternIS\obj\Debug\SingletonPatternIS.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\IS\SingletonPatternIS\obj\Debug\SingletonPatternIS.exe
+C:\Users\Laptop\Desktop\IS\SingletonPatternIS\obj\Debug\SingletonPatternIS.pdb
